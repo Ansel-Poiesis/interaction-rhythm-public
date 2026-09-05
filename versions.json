@@ -1,0 +1,18 @@
+{
+  "product": "交互节律",
+  "product_en": "interaction-rhythm",
+  "latest_version": "0.11.3",
+  "epoch": 2,
+  "release_tag": "v0.11.3",
+  "platform": "Windows 10+",
+  "channels": {
+    "stable": {
+      "version": "0.11.3",
+      "tag": "v0.11.3",
+      "assets": {
+        "installer": "interaction-rhythm-setup-v0.11.3.exe",
+        "portable": "interaction-rhythm.zip"
+      }
+    }
+  }
+}
